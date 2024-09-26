@@ -15,8 +15,6 @@ st.set_page_config(
     initial_sidebar_state='auto'
 )
 
-# You can customize the colour of output page by going to settings 
-# Dictionary for pages
 Tabs = {
     "Home": home,
     "Data Info": data,
