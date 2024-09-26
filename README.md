@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Human Stress Detection
 
 ![Stress Detection](https://i.postimg.cc/d1c9JsGD/1689241914189.jpg)
@@ -93,3 +94,6 @@ style="margin-right: 40px;">
 </div>
 
 <!-- END OF MARKDOWN -->
+=======
+# Human-Stress-Detection
+>>>>>>> aa670f45e243af9452b2e39a06d914c53b15feb7
